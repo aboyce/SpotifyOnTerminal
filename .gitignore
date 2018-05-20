@@ -34,6 +34,9 @@ Temporary Items
 # Settings Folder
 .settings/**
 
+# Target Folder
+target/**
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
